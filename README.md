@@ -38,7 +38,7 @@ This project uses **OpenCV** and **HandTracking** to detect hand gestures and ma
 
 ### 📸 Game in Action:
 
-![Game Screenshot](BG.png)
+![Game Screenshot](D076F0E7-627A-4B5F-BED1-4F12C652D562.jpeg)
 
 
 ---
