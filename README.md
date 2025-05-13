@@ -45,7 +45,7 @@ This project uses **OpenCV** and **HandTracking** to detect hand gestures and ma
 
 ## 🧑‍🤝‍🧑 Contributions
 
-This project was created with 💖 by [Ridham Garg](https://github.com/RidhamGarg).
+This project was created with 💖 by [Ridham Garg](https://github.com/irythmgarg).
 
 Feel free to contribute to this project! 🌱
 
